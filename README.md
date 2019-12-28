@@ -6,6 +6,6 @@ Este repositório possui os arquivos com as resoluções dos desafios propostos 
 
 ![CollabCode][collab-logo]|![CollabCode][collab-logo]|![CollabCode][collab-logo]|![CollabCode][collab-logo]|![CollabCode][collab-logo]
 :---:|:---:|:---:|:---:|:---:
-[001](001.md)|[002](002.md)|[003](003.md)
+[001](desafios/000/001.md)|[002](desafios/000/002.md)|[003](desafios/000/003.md)
 
 [collab-logo]: .github/collabcode-logo.svg
